@@ -11,7 +11,7 @@ const form = document.getElementById("voteForm");
 
       // Validation for empty fields
       if (name === "" || age === "") {
-        alert("Please enter valid details.");
+        alert("Please enter valid details");
         return;
       }
 
